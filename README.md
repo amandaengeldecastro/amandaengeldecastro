@@ -14,6 +14,9 @@
   <a href="mailto:amandaengeldecastro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.hackerrank.com/profile/amandaengel" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <!---<div align="center">
